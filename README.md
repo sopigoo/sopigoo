@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shofi!;Full-Stack+Developer;I+build+real+world+applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shofi!;Full-Stack+Developer" />
 </p>
 
 <h3 align="center">Computer Science Student @ Universitas Indonesia</h3>
