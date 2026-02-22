@@ -60,7 +60,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/tanpeep">
+  <a href="https://github.com/sopigoo">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sopigoo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sopigoo&layout=compact&langs_count=5&theme=algolia"/>
     </a>
